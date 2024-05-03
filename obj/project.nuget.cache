@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ITua1M1vglUvLXHoUjxTpgBvxzo/NcWrRku53/HeiEaQQKlIbWyACGHPG1ZgYLNzVmuxGREIpZWkwWJkAbSEvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MattieD\\source\\repos\\CSharpBootcamp_Jan2024_AH\\UnitTwoCode\\OmdbApi\\OmdbApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MattieD\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

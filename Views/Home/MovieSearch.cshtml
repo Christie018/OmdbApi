@@ -1,0 +1,17 @@
+﻿@model Movie;
+
+<div>
+    @if (Model != null && Model.Title != null)
+    {
+        <h2>@Model.Title (@Model.Year)</h2>
+        <p>@Model.Plot</p>
+        <img src="@Model.Poster" alt="poster for movie" />
+        <hr />
+        <h4>Director: @Model.Director</h4>
+        <h4>Actors: @Model.Actors</h4>
+    }
+    else
+    {
+        <p>That movie was not found</p>
+    }
+</div>
